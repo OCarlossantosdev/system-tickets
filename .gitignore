@@ -1,0 +1,14 @@
+# Dependências
+node_modules/
+.next/
+dist/
+build/
+
+# Variáveis de Ambiente (CRÍTICO: Não suba isso!)
+.env
+.env.local
+
+# Logs e Cache
+npm-debug.log*
+.eslintcache
+.turbo
